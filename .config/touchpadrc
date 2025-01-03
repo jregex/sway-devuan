@@ -1,0 +1,7 @@
+[parameters]
+CircScrollDelta=5.73
+MaxTapMove=3.6
+OneFingerTapButton=LeftButton
+RTCornerButton=RightButton
+Tapping=false
+TwoFingerTapButton=RightButton

@@ -1,0 +1,8 @@
+[window]
+padding = {y=10,x=10}
+opacity = 0.8
+dynamic_padding=true
+
+[font]
+normal = {family="Fira Code",style="Regular"}
+size = 12.0
